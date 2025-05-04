@@ -1,20 +1,17 @@
-# AI chef
+# Chef Byte - the AI chef
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Chef Byte is a futuristic AI chef who blends culinary art with cutting-edge technology. With tools like a Flavor Matrix Engine and smart ingredient scanners, it creates delicious, custom meals from any ingredients—perfect for any mood, diet, or craving.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Chef Byte solves the everyday challenge of planning, preparing, and cooking meals—especially for people with limited time, cooking experience, or special dietary needs. Many people feel overwhelmed by recipe choices or unsure how to cook healthy meals, which is a common problem in busy modern life.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* 
+Chef Byte uses smart tools and AI to take the stress out of cooking. It can suggest meals based on what’s in your kitchen, teach you step-by-step, and even boost your mood with comfort food. This idea is exciting because it makes good food more accessible, fun, and personalized for everyone.
 
 
 ## How is it used?
@@ -23,28 +20,11 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Cat]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-5da4-61f7-8554-a361c0805f87/raw?se=2025-05-04T10%3A44%3A44Z&sp=r&sv=2024-08-04&sr=b&scid=299bdb19-8c38-5531-a70d-cac45a16ac7a&skoid=dfdaf859-26f6-4fed-affc-1befb5ac1ac2&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-03T18%3A54%3A40Z&ske=2025-05-04T18%3A54%3A40Z&sks=b&skv=2024-08-04&sig=pxWr3%2BqpUwz300KNHfAqEv0GXoW86IWid09cBBlvn/0%3D))
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
