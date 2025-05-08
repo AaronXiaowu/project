@@ -20,11 +20,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-5da4-61f7-8554-a361c0805f87/raw?se=2025-05-04T10%3A44%3A44Z&sp=r&sv=2024-08-04&sr=b&scid=299bdb19-8c38-5531-a70d-cac45a16ac7a&skoid=dfdaf859-26f6-4fed-affc-1befb5ac1ac2&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-03T18%3A54%3A40Z&ske=2025-05-04T18%3A54%3A40Z&sks=b&skv=2024-08-04&sig=pxWr3%2BqpUwz300KNHfAqEv0GXoW86IWid09cBBlvn/0%3D))
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
+<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-5da4-61f7-8554-a361c0805f87/raw?se=2025-05-08T12%3A50%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=9ccea605-1409-4478-82eb-9c83b25dc1b0&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-08T11%3A05%3A59Z&ske=2025-05-09T11%3A05%3A59Z&sks=b&skv=2024-08-04&sig=iSSfPba8qdjp6eMekuQfNc9Zlc6CuKquz3NN0zwIAHg%3D">
 
 
 ## Data sources and AI methods
